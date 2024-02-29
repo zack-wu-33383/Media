@@ -1,0 +1,28 @@
+凤凰中文1,https://edge2.laotv.la/live/PhxChinese/sc-gaFECQ/v0_index.m3u8
+凤凰中文2,https://edge2.laotv.la/live/PhxChinese/sc-gaFECQ/v1_index.m3u8
+凤凰中文3,https://edge1.laotv.la/live/PhxChinese/sc-gaFECQ/v1_index.m3u8
+凤凰中文4,https://edge1.laotv.la/live/PhxChinese/sc-gaFECQ/v0_index.m3u8
+凤凰中文5,https://edge1.laotv.la/live/PhxChinese/index.m3u8
+凤凰中文6,https://edge2.laotv.la/live/PhxChinese/index.m3u8
+GOODTV好醫生HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch9-2.m3u8
+RTHK,http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+時尚台FTV1,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+時尚台FTV2,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+新加坡国际,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd.m3u8
+FOX新闻,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+FOX News,http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+BBC NewsSouthAsia,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.m3u8
+CNN International,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+CNN USA,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+BloomBerg USA,https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8
+BloomBerg+ USA,https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
+NHK world,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+CBS2,https://lnc-wfmy.tubi.video/live.m3u8
+CBS3,https://lnc-krtv.tubi.video/playlist.m3u8
+
