@@ -23,6 +23,11 @@ CNN USA,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VI
 BloomBerg USA,https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8
 BloomBerg+ USA,https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
 NHK world,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-CBS2,https://lnc-wfmy.tubi.video/live.m3u8
-CBS3,https://lnc-krtv.tubi.video/playlist.m3u8
+CBN News,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+BBC New1,https://stream1.freetv.fun/bbc-news-4.m3u8
+BBC New2,https://stream1.freetv.fun/bbc-news-5.m3u8
+CNN USA,https://stream1.freetv.fun/8f00cf1e1b9e5033eb0981c4133b321c3812c3bb977c3f497eb2762ca045a075.m3u8
+CNN International1,https://stream1.freetv.fun/a433069711ef3cd1c6303c7c39fd82b9b186bda721aa04c0d7d64e1815efa98b.m3u8
+CNN International2,https://stream1.freetv.fun/39c6d986c4ff60481338f0593a74b1591f279094cdaf90530103c792d0c93d4e.m3u8
+朝鲜中央电视台,http://tv.nknews.org/tvhls/stream.m3u8
 
