@@ -1,0 +1,101 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="凤凰中文1" tvg-name="凤凰中文1" tvg-logo="" group-title="未分组", 凤凰中文1
+https://edge2.laotv.la/live/PhxChinese/sc-gaFECQ/v0_index.m3u8
+
+#EXTINF:-1 tvg-id="凤凰中文2" tvg-name="凤凰中文2" tvg-logo="" group-title="未分组", 凤凰中文2
+https://edge2.laotv.la/live/PhxChinese/sc-gaFECQ/v1_index.m3u8
+
+#EXTINF:-1 tvg-id="凤凰中文3" tvg-name="凤凰中文3" tvg-logo="" group-title="未分组", 凤凰中文3
+https://edge1.laotv.la/live/PhxChinese/sc-gaFECQ/v1_index.m3u8
+
+#EXTINF:-1 tvg-id="凤凰中文4" tvg-name="凤凰中文4" tvg-logo="" group-title="未分组", 凤凰中文4
+https://edge1.laotv.la/live/PhxChinese/sc-gaFECQ/v0_index.m3u8
+
+#EXTINF:-1 tvg-id="凤凰中文5" tvg-name="凤凰中文5" tvg-logo="" group-title="未分组", 凤凰中文5
+https://edge1.laotv.la/live/PhxChinese/index.m3u8
+
+#EXTINF:-1 tvg-id="凤凰中文6" tvg-name="凤凰中文6" tvg-logo="" group-title="未分组", 凤凰中文6
+https://edge2.laotv.la/live/PhxChinese/index.m3u8
+
+#EXTINF:-1 tvg-id="GOODTV好醫生HD" tvg-name="GOODTV好醫生HD" tvg-logo="" group-title="未分组", GOODTV好醫生HD
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch9-2.m3u8
+
+#EXTINF:-1 tvg-id="RTHK" tvg-name="RTHK" tvg-logo="" group-title="未分组", RTHK
+http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+
+#EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="" group-title="未分组", TVBS新闻
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+
+#EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="" group-title="未分组", TVBS新闻台
+http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+
+#EXTINF:-1 tvg-id="時尚台FTV1" tvg-name="時尚台FTV1" tvg-logo="" group-title="未分组", 時尚台FTV1
+http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="時尚台FTV2" tvg-name="時尚台FTV2" tvg-logo="" group-title="未分组", 時尚台FTV2
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+
+#EXTINF:-1 tvg-id="新加坡国际" tvg-name="新加坡国际" tvg-logo="" group-title="未分组", 新加坡国际
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+
+#EXTINF:-1 tvg-id="新加坡中文台" tvg-name="新加坡中文台" tvg-logo="" group-title="未分组", 新加坡中文台
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd.m3u8
+
+#EXTINF:-1 tvg-id="FOX新闻" tvg-name="FOX新闻" tvg-logo="" group-title="未分组", FOX新闻
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FOX News" tvg-name="FOX News" tvg-logo="" group-title="未分组", FOX News
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+
+#EXTINF:-1 tvg-id="亚洲新闻" tvg-name="亚洲新闻" tvg-logo="" group-title="未分组", 亚洲新闻
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:-1 tvg-id="CNA新闻" tvg-name="CNA新闻" tvg-logo="" group-title="未分组", CNA新闻
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF:-1 tvg-id="RT News" tvg-name="RT News" tvg-logo="" group-title="未分组", RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+
+#EXTINF:-1 tvg-id="BBC NewsSouthAsia" tvg-name="BBC NewsSouthAsia" tvg-logo="" group-title="未分组", BBC NewsSouthAsia
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-id="CNN International" tvg-name="CNN International" tvg-logo="" group-title="未分组", CNN International
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNN USA" tvg-name="CNN USA" tvg-logo="" group-title="未分组", CNN USA
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="BloomBerg USA" tvg-name="BloomBerg USA" tvg-logo="" group-title="未分组", BloomBerg USA
+https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BloomBerg+ USA" tvg-name="BloomBerg+ USA" tvg-logo="" group-title="未分组", BloomBerg+ USA
+https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NHK world" tvg-name="NHK world" tvg-logo="" group-title="未分组", NHK world
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
+#EXTINF:-1 tvg-id="CBN News" tvg-name="CBN News" tvg-logo="" group-title="未分组", CBN News
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBC New1" tvg-name="BBC New1" tvg-logo="" group-title="未分组", BBC New1
+https://stream1.freetv.fun/bbc-news-4.m3u8
+
+#EXTINF:-1 tvg-id="BBC New2" tvg-name="BBC New2" tvg-logo="" group-title="未分组", BBC New2
+https://stream1.freetv.fun/bbc-news-5.m3u8
+
+#EXTINF:-1 tvg-id="CNN USA" tvg-name="CNN USA" tvg-logo="" group-title="未分组", CNN USA
+https://stream1.freetv.fun/8f00cf1e1b9e5033eb0981c4133b321c3812c3bb977c3f497eb2762ca045a075.m3u8
+
+#EXTINF:-1 tvg-id="CNN International1" tvg-name="CNN International1" tvg-logo="" group-title="未分组", CNN International1
+https://stream1.freetv.fun/a433069711ef3cd1c6303c7c39fd82b9b186bda721aa04c0d7d64e1815efa98b.m3u8
+
+#EXTINF:-1 tvg-id="CNN International2" tvg-name="CNN International2" tvg-logo="" group-title="未分组", CNN International2
+https://stream1.freetv.fun/39c6d986c4ff60481338f0593a74b1591f279094cdaf90530103c792d0c93d4e.m3u8
+
+#EXTINF:-1 tvg-id="朝鲜中央电视台" tvg-name="朝鲜中央电视台" tvg-logo="" group-title="未分组", 朝鲜中央电视台
+http://tv.nknews.org/tvhls/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",
+Ctrl + `
+
